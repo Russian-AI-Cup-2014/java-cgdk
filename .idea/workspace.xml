@@ -1,0 +1,1206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" readonly="true" id="4dddb735-8945-403b-b4c4-03f6ebc944ca" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
+    <ignored path="java-cgdk.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <file path="/fragment.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1409225305881" ignored="false" />
+    <file path="/a.dummy" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1404126164070" ignored="false" />
+    <file path="/Game.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376296036257" ignored="false" />
+    <file path="$PROJECT_DIR$/../../gameserver/src/main/java/com/codegame/gameserver/impl/codetroopers2013/model/Game.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376296073963" ignored="false" />
+    <file path="$PROJECT_DIR$/../../gameserver/src/main/java/com/codegame/gameserver/impl/codetroopers2013/model/Trooper.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1377249047405" ignored="false" />
+    <file path="/Trooper.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1383733171104" ignored="false" />
+    <file path="/World.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1384243994666" ignored="false" />
+    <file path="$PROJECT_DIR$/../../gameserver/src/main/java/com/codegame/gameserver/impl/codetroopers2013/model/World.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1380025994242" ignored="false" />
+    <file path="/Effect.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376035285291" ignored="false" />
+    <file path="$PROJECT_DIR$/../../gameserver/src/main/java/com/codegame/gameserver/impl/codetroopers2013/model/Effect.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376035285291" ignored="false" />
+    <file path="/Strategy.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1402053803501" ignored="false" />
+    <file path="/MyStrategy.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1402053950225" ignored="false" />
+    <file path="/ActionType.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376036870868" ignored="false" />
+    <file path="$PROJECT_DIR$/../../gameserver/src/main/java/com/codegame/gameserver/impl/codetroopers2013/model/ActionType.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376045034585" ignored="false" />
+    <file path="/BonusType.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376037038832" ignored="false" />
+    <file path="/CellType.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376037538615" ignored="false" />
+    <file path="$PROJECT_DIR$/../../gameserver/src/main/java/com/codegame/gameserver/impl/codetroopers2013/model/CellType.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376037560925" ignored="false" />
+    <file path="$PROJECT_DIR$/../../gameserver/src/main/java/com/codegame/gameserver/impl/codetroopers2013/model/Bonus.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376037582784" ignored="false" />
+    <file path="$PROJECT_DIR$/../../gameserver/src/main/java/com/codegame/gameserver/impl/codetroopers2013/model/BonusType.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376046010569" ignored="false" />
+    <file path="/Direction.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376385532539" ignored="false" />
+    <file path="$PROJECT_DIR$/../../gameserver/src/main/java/com/codegame/gameserver/impl/codetroopers2013/model/Direction.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376037908955" ignored="false" />
+    <file path="/Move.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376038735996" ignored="false" />
+    <file path="$PROJECT_DIR$/../../gameserver/src/main/java/com/codegame/gameserver/impl/codetroopers2013/model/Move.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376038769581" ignored="false" />
+    <file path="/Player.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1402301387199" ignored="false" />
+    <file path="$PROJECT_DIR$/../../gameserver/src/main/java/com/codegame/gameserver/impl/codetroopers2013/model/Player.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376038891718" ignored="false" />
+    <file path="$PROJECT_DIR$/../../gameserver/src/main/java/com/codegame/gameserver/impl/codetroopers2013/strategy/adapter/remote/RemoteProcessServerBase.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1380103046842" ignored="false" />
+    <file path="$PROJECT_DIR$/../../gameserver/src/main/java/com/codegame/gameserver/impl/codetroopers2013/strategy/adapter/remote/RemoteProcessServerImpl.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1380104223040" ignored="false" />
+    <file path="$PROJECT_DIR$/../../gameserver/src/main/java/com/codegame/gameserver/impl/codetroopers2013/conf/Rules.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1380109901399" ignored="false" />
+    <file path="$PROJECT_DIR$/../../gameserver/src/main/java/com/codegame/gameserver/impl/codetroopers2013/core/CodeTroopers2013Game.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1380019734199" ignored="false" />
+    <file path="$PROJECT_DIR$/../../gameserver/src/main/java/com/codegame/gameserver/impl/codetroopers2013/core/unit/TrooperBase.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376306370297" ignored="false" />
+    <file path="$PROJECT_DIR$/../../gameserver/src/main/java/com/codegame/gameserver/impl/codetroopers2013/core/util/GameUtil.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376045034585" ignored="false" />
+    <file path="$PROJECT_DIR$/../../gameserver/src/main/java/com/codegame/gameserver/impl/codetroopers2013/core/util/TrooperUtil.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376470868366" ignored="false" />
+    <file path="$PROJECT_DIR$/../../gameserver/src/main/java/com/codegame/gameserver/impl/codetroopers2013/model/TrooperStance.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376045735601" ignored="false" />
+    <file path="$PROJECT_DIR$/../../gameserver/src/main/java/com/codegame/gameserver/impl/codetroopers2013/strategy/TestStrategy.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1381222075373" ignored="false" />
+    <file path="/TrooperStance.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376045716625" ignored="false" />
+    <file path="/TrooperType.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376045807770" ignored="false" />
+    <file path="$PROJECT_DIR$/../../gameserver/src/main/java/com/codegame/gameserver/impl/codetroopers2013/model/TrooperType.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376046126016" ignored="false" />
+    <file path="$PROJECT_DIR$/../../docspostprocessor/src/main/java/com/codegame/codetanks2012/docspostprocessor/Processor.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304867042" ignored="false" />
+    <file path="/Processor.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376293610834" ignored="false" />
+    <file path="$PROJECT_DIR$/../../gameserver/src/main/java/com/codegame/gameserver/impl/codetroopers2013/model/Unit.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376469721431" ignored="false" />
+    <file path="/RemoteProcessClient.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1409223726613" ignored="false" />
+    <file path="/Runner.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1402055945280" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../asd/.idea/workspace.xml" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304930278" ignored="false" />
+    <file path="$PROJECT_DIR$/../../boombox/pom.xml" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304794337" ignored="false" />
+    <file path="$PROJECT_DIR$/../../boombox/profiles.xml" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304796345" ignored="false" />
+    <file path="$PROJECT_DIR$/../../boombox/profiles/profiles.xml.dev" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304797905" ignored="false" />
+    <file path="$PROJECT_DIR$/../../boombox/src/main/java/com/codegame/codetanks2012/boombox/Boombox.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304801514" ignored="false" />
+    <file path="$PROJECT_DIR$/../../boombox/src/main/java/com/codegame/codetanks2012/boombox/BoomboxFactory.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304802978" ignored="false" />
+    <file path="$PROJECT_DIR$/../../boombox/src/main/java/com/codegame/codetanks2012/boombox/Fragment.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304803730" ignored="false" />
+    <file path="$PROJECT_DIR$/../../boombox/src/main/java/com/codegame/codetanks2012/boombox/exception/BoomboxConfigurationException.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304804506" ignored="false" />
+    <file path="$PROJECT_DIR$/../../boombox/src/main/java/com/codegame/codetanks2012/boombox/exception/NoSuchDocumentException.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304805218" ignored="false" />
+    <file path="$PROJECT_DIR$/../../boombox/src/main/java/com/codegame/codetanks2012/boombox/exception/OperationAbortedException.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304806066" ignored="false" />
+    <file path="$PROJECT_DIR$/../../boombox/src/main/java/com/codegame/codetanks2012/boombox/exception/OperationFailedException.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304806834" ignored="false" />
+    <file path="$PROJECT_DIR$/../../boombox/src/main/java/com/codegame/codetanks2012/boombox/impl/BoomboxImpl.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304810369" ignored="false" />
+    <file path="$PROJECT_DIR$/../../boombox/src/main/java/com/codegame/codetanks2012/boombox/impl/Content.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304813034" ignored="false" />
+    <file path="$PROJECT_DIR$/../../boombox/src/main/java/com/codegame/codetanks2012/boombox/impl/ContentDao.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304814561" ignored="false" />
+    <file path="$PROJECT_DIR$/../../boombox/src/main/java/com/codegame/codetanks2012/boombox/impl/ContentDaoImpl.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304817274" ignored="false" />
+    <file path="$PROJECT_DIR$/../../boombox/src/main/java/com/codegame/codetanks2012/boombox/impl/Engine.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304818586" ignored="false" />
+    <file path="$PROJECT_DIR$/../../boombox/src/main/java/com/codegame/codetanks2012/boombox/impl/EngineImpl.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304822530" ignored="false" />
+    <file path="$PROJECT_DIR$/../../boombox/src/main/java/com/codegame/codetanks2012/boombox/impl/Event.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304825119" ignored="false" />
+    <file path="$PROJECT_DIR$/../../boombox/src/main/java/com/codegame/codetanks2012/boombox/impl/EventBus.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304826581" ignored="false" />
+    <file path="$PROJECT_DIR$/../../boombox/src/main/java/com/codegame/codetanks2012/boombox/impl/Iterator.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304827586" ignored="false" />
+    <file path="$PROJECT_DIR$/../../boombox/src/main/java/com/codegame/codetanks2012/boombox/impl/file/FileContent.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304830681" ignored="false" />
+    <file path="$PROJECT_DIR$/../../boombox/src/main/java/com/codegame/codetanks2012/boombox/impl/file/FileIterator.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304831974" ignored="false" />
+    <file path="$PROJECT_DIR$/../../boombox/src/main/java/com/codegame/codetanks2012/boombox/impl/inmemory/Bytes.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304832786" ignored="false" />
+    <file path="$PROJECT_DIR$/../../boombox/src/main/java/com/codegame/codetanks2012/boombox/impl/inmemory/InmemoryContent.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304836442" ignored="false" />
+    <file path="$PROJECT_DIR$/../../boombox/src/main/java/com/codegame/codetanks2012/boombox/impl/inmemory/InmemoryIterator.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304837538" ignored="false" />
+    <file path="$PROJECT_DIR$/../../boombox/src/main/java/com/codegame/codetanks2012/boombox/model/Database.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304837882" ignored="false" />
+    <file path="$PROJECT_DIR$/../../boombox/src/main/java/com/codegame/codetanks2012/boombox/model/Document.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304838195" ignored="false" />
+    <file path="$PROJECT_DIR$/../../boombox/src/main/java/com/codegame/codetanks2012/boombox/validate/ValidateUtil.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304838718" ignored="false" />
+    <file path="$PROJECT_DIR$/../../boombox/src/main/java/com/codegame/codetanks2012/boombox/web/DispatchServlet.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304842393" ignored="false" />
+    <file path="$PROJECT_DIR$/../../boombox/src/main/java/com/codegame/codetanks2012/boombox/web/PreprocessFilter.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304844281" ignored="false" />
+    <file path="$PROJECT_DIR$/../../boombox/src/main/java/com/codegame/codetanks2012/boombox/web/Printer.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304845200" ignored="false" />
+    <file path="$PROJECT_DIR$/../../boombox/src/main/java/com/codegame/codetanks2012/boombox/web/Request.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304845800" ignored="false" />
+    <file path="$PROJECT_DIR$/../../boombox/src/main/java/com/codegame/codetanks2012/boombox/web/impl/JqueryStreamingCompatibilityPrinter.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304846784" ignored="false" />
+    <file path="$PROJECT_DIR$/../../boombox/src/main/java/com/codegame/codetanks2012/boombox/web/impl/TransparentPrinter.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304847665" ignored="false" />
+    <file path="$PROJECT_DIR$/../../boombox/src/main/webapp/WEB-INF/web.xml" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304848305" ignored="false" />
+    <file path="$PROJECT_DIR$/../../boombox/src/test/java/com/codegame/codetanks2012/boombox/BoomboxTest.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304853094" ignored="false" />
+    <file path="$PROJECT_DIR$/../../contester/contester.log" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304867041" ignored="false" />
+    <file path="$PROJECT_DIR$/../../contester/pom.xml" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376306163400" ignored="false" />
+    <file path="$PROJECT_DIR$/../../contester/contester.log.err" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304867041" ignored="false" />
+    <file path="$PROJECT_DIR$/../../contester/contester.log.warn" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304867041" ignored="false" />
+    <file path="$PROJECT_DIR$/../../contester/profiles.xml" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304867042" ignored="false" />
+    <file path="$PROJECT_DIR$/../../contester/make.bat" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304867041" ignored="false" />
+    <file path="$PROJECT_DIR$/../../contester/src/main/java/com/codegame/codetanks2012/contester/dao/impl/GameDaoImpl.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304867041" ignored="false" />
+    <file path="$PROJECT_DIR$/../../contester/src/main/java/com/codegame/codetanks2012/contester/dao/impl/RatingChangeDaoImpl.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304867041" ignored="false" />
+    <file path="$PROJECT_DIR$/../../contester/src/main/java/com/codegame/codetanks2012/contester/dao/impl/RatingDaoImpl.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304867041" ignored="false" />
+    <file path="$PROJECT_DIR$/../../contester/src/main/java/com/codegame/codetanks2012/contester/dao/impl/GameParticipantDaoImpl.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304867041" ignored="false" />
+    <file path="$PROJECT_DIR$/../../contester/src/main/java/com/codegame/codetanks2012/contester/dao/impl/SettingDaoImpl.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304867041" ignored="false" />
+    <file path="$PROJECT_DIR$/../../contester/src/main/java/com/codegame/codetanks2012/contester/dao/impl/ProgramDaoImpl.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304867041" ignored="false" />
+    <file path="$PROJECT_DIR$/../../contester/src/main/java/com/codegame/codetanks2012/contester/model/ProgramType.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304867041" ignored="false" />
+    <file path="$PROJECT_DIR$/../../contester/src/main/java/com/codegame/codetanks2012/contester/model/GameInfo.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304867041" ignored="false" />
+    <file path="$PROJECT_DIR$/../../contester/src/main/java/com/codegame/codetanks2012/contester/model/Submission.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304867041" ignored="false" />
+    <file path="$PROJECT_DIR$/../../contester/src/main/java/com/codegame/codetanks2012/contester/model/User.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304867041" ignored="false" />
+    <file path="$PROJECT_DIR$/../../contester/src/main/java/com/codegame/codetanks2012/contester/model/Invoker.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304867041" ignored="false" />
+    <file path="$PROJECT_DIR$/../../contester/src/main/java/com/codegame/codetanks2012/contester/model/UserEvent.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304867041" ignored="false" />
+    <file path="$PROJECT_DIR$/../../contester/src/main/java/com/codegame/codetanks2012/contester/model/GameParticipant.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304867042" ignored="false" />
+    <file path="$PROJECT_DIR$/../../contester/src/main/java/com/codegame/codetanks2012/contester/model/RatingChange.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304867042" ignored="false" />
+    <file path="$PROJECT_DIR$/../../contester/src/main/java/com/codegame/codetanks2012/contester/model/ApplicationEntity.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304867042" ignored="false" />
+    <file path="$PROJECT_DIR$/../../contester/src/main/java/com/codegame/codetanks2012/contester/model/Rating.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304867042" ignored="false" />
+    <file path="$PROJECT_DIR$/../../contester/src/main/java/com/codegame/codetanks2012/contester/model/Setting.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304867042" ignored="false" />
+    <file path="$PROJECT_DIR$/../../contester/src/main/java/com/codegame/codetanks2012/contester/model/Game.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304867042" ignored="false" />
+    <file path="$PROJECT_DIR$/../../contester/src/main/java/com/codegame/codetanks2012/contester/model/Program.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304867042" ignored="false" />
+    <file path="$PROJECT_DIR$/../../contester/src/main/java/com/codegame/codetanks2012/contester/model/Contest.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304867042" ignored="false" />
+    <file path="$PROJECT_DIR$/../../contester/src/main/java/com/codegame/codetanks2012/contester/inject/ContesterModule.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304867042" ignored="false" />
+    <file path="$PROJECT_DIR$/../../contester/src/main/java/com/codegame/codetanks2012/contester/interop/GameRequestInfo.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304867042" ignored="false" />
+    <file path="$PROJECT_DIR$/../../contester/src/main/java/com/codegame/codetanks2012/contester/interop/ContesterRpcImpl.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304867042" ignored="false" />
+    <file path="$PROJECT_DIR$/../../contester/src/main/java/com/codegame/codetanks2012/contester/interop/ContesterRpc.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304867042" ignored="false" />
+    <file path="$PROJECT_DIR$/../../contester/src/main/java/com/codegame/codetanks2012/contester/interop/Jobs.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304867042" ignored="false" />
+    <file path="$PROJECT_DIR$/../../fake-gameserver/copy-to-invoker.bat" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304867042" ignored="false" />
+    <file path="$PROJECT_DIR$/../../contester/src/main/java/com/codegame/codetanks2012/contester/service/RatingService.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304867042" ignored="false" />
+    <file path="$PROJECT_DIR$/../../contester/src/main/java/com/codegame/codetanks2012/contester/service/SubmissionProcessor.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304867042" ignored="false" />
+    <file path="$PROJECT_DIR$/../../contester/src/main/java/com/codegame/codetanks2012/contester/service/GameScheduler.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304867042" ignored="false" />
+    <file path="$PROJECT_DIR$/../../contester/src/main/java/com/codegame/codetanks2012/contester/service/GameProcessor.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304867042" ignored="false" />
+    <file path="$PROJECT_DIR$/../../contester/src/main/java/com/codegame/codetanks2012/contester/database/DataSourceFactory.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304867042" ignored="false" />
+    <file path="$PROJECT_DIR$/../../contester/src/main/java/com/codegame/codetanks2012/contester/exception/AssertionException.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304867042" ignored="false" />
+    <file path="$PROJECT_DIR$/../../contester/src/main/java/com/codegame/codetanks2012/contester/exception/ConfigurationException.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304867042" ignored="false" />
+    <file path="$PROJECT_DIR$/../../contester/src/main/webapp/WEB-INF/web.xml" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376306163400" ignored="false" />
+    <file path="$PROJECT_DIR$/../../contester/target/war/work/webapp-cache.xml" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304867042" ignored="false" />
+    <file path="$PROJECT_DIR$/../../contester/target/classes/contester.properties" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304867042" ignored="false" />
+    <file path="$PROJECT_DIR$/../../contester/src/main/resources/org/apache/xmlrpc/webserver/XmlRpcServlet.properties" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304867042" ignored="false" />
+    <file path="$PROJECT_DIR$/../../contester/target/classes/log4j.properties" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304867042" ignored="false" />
+    <file path="$PROJECT_DIR$/../../contester/profiles/profiles.xml.dev" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304867042" ignored="false" />
+    <file path="$PROJECT_DIR$/../../docspostprocessor/pom.xml" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304867042" ignored="false" />
+    <file path="$PROJECT_DIR$/../../contester/src/main/java/com/codegame/codetanks2012/contester/ContesterServletContextListener.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304867043" ignored="false" />
+    <file path="$PROJECT_DIR$/../../contester/target/codetanks2012-contester/WEB-INF/classes/contester.properties" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304867043" ignored="false" />
+    <file path="$PROJECT_DIR$/../../docspostprocessor/target/maven-archiver/pom.properties" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304867043" ignored="false" />
+    <file path="$PROJECT_DIR$/../../contester/target/codetanks2012-contester/WEB-INF/classes/log4j.properties" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304867043" ignored="false" />
+    <file path="$PROJECT_DIR$/../cpp-cgdk/Debug/CL.read.1.tlog" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304867044" ignored="false" />
+    <file path="$PROJECT_DIR$/../../contester/src/main/java/com/codegame/codetanks2012/contester/Contester.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304867043" ignored="false" />
+    <file path="$PROJECT_DIR$/../../contester/target/classes/org/apache/xmlrpc/webserver/XmlRpcServlet.properties" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304867043" ignored="false" />
+    <file path="$PROJECT_DIR$/../../contester/src/main/java/com/codegame/codetanks2012/contester/Configuration.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304867043" ignored="false" />
+    <file path="$PROJECT_DIR$/../../contester/target/maven-archiver/pom.properties" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304867043" ignored="false" />
+    <file path="$PROJECT_DIR$/../../contester/src/main/java/com/codegame/codetanks2012/contester/dao/SubmissionDao.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304867043" ignored="false" />
+    <file path="$PROJECT_DIR$/../../contester/src/main/java/com/codegame/codetanks2012/contester/dao/SettingDao.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304867043" ignored="false" />
+    <file path="$PROJECT_DIR$/../../contester/src/main/java/com/codegame/codetanks2012/contester/dao/RatingChangeDao.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304867043" ignored="false" />
+    <file path="$PROJECT_DIR$/../../contester/src/main/java/com/codegame/codetanks2012/contester/dao/RatingDao.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304867043" ignored="false" />
+    <file path="$PROJECT_DIR$/../../contester/target/codetanks2012-contester/WEB-INF/web.xml" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304867043" ignored="false" />
+    <file path="$PROJECT_DIR$/../../contester/src/main/java/com/codegame/codetanks2012/contester/dao/UserEventDao.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304867043" ignored="false" />
+    <file path="$PROJECT_DIR$/../../contester/src/main/java/com/codegame/codetanks2012/contester/dao/DateDao.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304867043" ignored="false" />
+    <file path="$PROJECT_DIR$/../../contester/target/codetanks2012-contester/WEB-INF/classes/org/apache/xmlrpc/webserver/XmlRpcServlet.properties" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304867043" ignored="false" />
+    <file path="$PROJECT_DIR$/../../contester/src/main/java/com/codegame/codetanks2012/contester/dao/GameDao.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304867043" ignored="false" />
+    <file path="$PROJECT_DIR$/../../fake-gameserver/pom.xml" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376306163400" ignored="false" />
+    <file path="$PROJECT_DIR$/../../contester/src/main/java/com/codegame/codetanks2012/contester/dao/ProgramTypeDao.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304867043" ignored="false" />
+    <file path="$PROJECT_DIR$/../../contester/src/main/java/com/codegame/codetanks2012/contester/dao/UserDao.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304867043" ignored="false" />
+    <file path="$PROJECT_DIR$/../../contester/src/main/java/com/codegame/codetanks2012/contester/dao/ProgramDao.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304867043" ignored="false" />
+    <file path="$PROJECT_DIR$/../../contester/src/main/java/com/codegame/codetanks2012/contester/dao/GameParticipantDao.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304867043" ignored="false" />
+    <file path="$PROJECT_DIR$/../../contester/src/main/java/com/codegame/codetanks2012/contester/dao/ContestDao.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304867043" ignored="false" />
+    <file path="$PROJECT_DIR$/../../contester/src/main/java/com/codegame/codetanks2012/contester/dao/impl/DateDaoImpl.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304867043" ignored="false" />
+    <file path="$PROJECT_DIR$/../../contester/src/main/java/com/codegame/codetanks2012/contester/dao/impl/ContestDaoImpl.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304867043" ignored="false" />
+    <file path="$PROJECT_DIR$/../../contester/src/main/java/com/codegame/codetanks2012/contester/dao/impl/ProgramTypeDaoImpl.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304867043" ignored="false" />
+    <file path="$PROJECT_DIR$/../../contester/src/main/java/com/codegame/codetanks2012/contester/dao/impl/UserDaoImpl.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304867043" ignored="false" />
+    <file path="$PROJECT_DIR$/../../contester/src/main/java/com/codegame/codetanks2012/contester/dao/impl/UserEventDaoImpl.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304867044" ignored="false" />
+    <file path="$PROJECT_DIR$/../../contester/src/main/java/com/codegame/codetanks2012/contester/dao/impl/SubmissionDaoImpl.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304867044" ignored="false" />
+    <file path="$PROJECT_DIR$/../../fake-gameserver/src/main/java/com/codegame/codetanks2012/fakegameserver/Main.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304867044" ignored="false" />
+    <file path="$PROJECT_DIR$/../cpp-cgdk/Debug/rc.read.1.tlog" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304867044" ignored="false" />
+    <file path="$PROJECT_DIR$/../csharp-cgdk/Model/Player.cs" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304867044" ignored="false" />
+    <file path="$PROJECT_DIR$/../cpp-cgdk/Debug/link.read.1.tlog" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304867044" ignored="false" />
+    <file path="$PROJECT_DIR$/../csharp-cgdk/Model/FireType.cs" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304867044" ignored="false" />
+    <file path="$PROJECT_DIR$/../csharp-cgdk/Model/Shell.cs" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304867044" ignored="false" />
+    <file path="$PROJECT_DIR$/../csharp-cgdk/Model/Obstacle.cs" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304867044" ignored="false" />
+    <file path="$PROJECT_DIR$/../csharp-cgdk/Model/Move.cs" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304867044" ignored="false" />
+    <file path="$PROJECT_DIR$/../csharp-cgdk/Model/PlayerContext.cs" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304867044" ignored="false" />
+    <file path="$PROJECT_DIR$/../csharp-cgdk/Model/Bonus.cs" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304867044" ignored="false" />
+    <file path="$PROJECT_DIR$/../csharp-cgdk/IStrategy.cs" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304867044" ignored="false" />
+    <file path="$PROJECT_DIR$/../csharp-cgdk/Model/BonusType.cs" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304867044" ignored="false" />
+    <file path="$PROJECT_DIR$/../cpp-cgdk/Debug/cpp-cgdk.lastbuildstate" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304867044" ignored="false" />
+    <file path="$PROJECT_DIR$/../cpp-cgdk/Debug/link.write.1.tlog" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304867044" ignored="false" />
+    <file path="$PROJECT_DIR$/../cpp-cgdk/Debug/cpp-cgdk.log" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304867044" ignored="false" />
+    <file path="$PROJECT_DIR$/../cpp-cgdk/Debug/rc.write.1.tlog" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304867044" ignored="false" />
+    <file path="$PROJECT_DIR$/../cpp-cgdk/Debug/mt.write.1.tlog" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304867044" ignored="false" />
+    <file path="$PROJECT_DIR$/../cpp-cgdk/Debug/CL.write.1.tlog" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304867044" ignored="false" />
+    <file path="$PROJECT_DIR$/../cpp-cgdk/Debug/link.command.1.tlog" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304867044" ignored="false" />
+    <file path="$PROJECT_DIR$/../cpp-cgdk/UpgradeLog.XML" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304867044" ignored="false" />
+    <file path="$PROJECT_DIR$/../cpp-cgdk/Debug/cl.command.1.tlog" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304867044" ignored="false" />
+    <file path="$PROJECT_DIR$/../cpp-cgdk/Debug/mt.read.1.tlog" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304867044" ignored="false" />
+    <file path="$PROJECT_DIR$/../cpp-cgdk/Debug/rc.command.1.tlog" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304867044" ignored="false" />
+    <file path="$PROJECT_DIR$/../cpp-cgdk/Debug/mt.command.1.tlog" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304867044" ignored="false" />
+    <file path="$PROJECT_DIR$/../../invoker/dist.bat" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304867044" ignored="false" />
+    <file path="$PROJECT_DIR$/../csharp-cgdk/Model/ShellType.cs" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304867045" ignored="false" />
+    <file path="$PROJECT_DIR$/../../invoker/invoker.log.err" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304867045" ignored="false" />
+    <file path="$PROJECT_DIR$/../../invoker/dist/run-invoker.bat" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304867045" ignored="false" />
+    <file path="$PROJECT_DIR$/../csharp-cgdk/UpgradeLog.XML" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304867045" ignored="false" />
+    <file path="$PROJECT_DIR$/../slade-strategy/target/maven-archiver/pom.properties" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304867045" ignored="false" />
+    <file path="$PROJECT_DIR$/../../invoker/dist.sh" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304867045" ignored="false" />
+    <file path="$PROJECT_DIR$/../csharp-cgdk/obj/Release/csharp-cgdk.csproj.FileListAbsolute.txt" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304867045" ignored="false" />
+    <file path="$PROJECT_DIR$/../csharp-cgdk/Runner.cs" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304867045" ignored="false" />
+    <file path="$PROJECT_DIR$/../csharp-cgdk/Model/World.cs" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304867045" ignored="false" />
+    <file path="$PROJECT_DIR$/../csharp-cgdk/Model/Unit.cs" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304867045" ignored="false" />
+    <file path="$PROJECT_DIR$/../csharp-cgdk/Model/TankType.cs" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304867045" ignored="false" />
+    <file path="$PROJECT_DIR$/../csharp-cgdk/RemoteProcessClient.cs" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304867045" ignored="false" />
+    <file path="$PROJECT_DIR$/../csharp-cgdk/Model/Tank.cs" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304867045" ignored="false" />
+    <file path="$PROJECT_DIR$/../csharp-cgdk/MyStrategy.cs" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304867045" ignored="false" />
+    <file path="$PROJECT_DIR$/../slade-strategy/pom.xml" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304867045" ignored="false" />
+    <file path="$PROJECT_DIR$/../../invoker/invoker.log.warn" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304867087" ignored="false" />
+    <file path="$PROJECT_DIR$/../../invoker/profiles/profiles.xml.dev" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304867087" ignored="false" />
+    <file path="$PROJECT_DIR$/../../invoker/profiles/profiles.xml.fake" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304867087" ignored="false" />
+    <file path="$PROJECT_DIR$/../../invoker/profiles/profiles.xml.1" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304867087" ignored="false" />
+    <file path="$PROJECT_DIR$/../../invoker/run-invoker.bat" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304867087" ignored="false" />
+    <file path="$PROJECT_DIR$/../../jsrenderer/pom.xml" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304867087" ignored="false" />
+    <file path="$PROJECT_DIR$/../../invoker/profiles.xml" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304867087" ignored="false" />
+    <file path="$PROJECT_DIR$/../../invoker/pom.xml" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304867087" ignored="false" />
+    <file path="$PROJECT_DIR$/../../invoker/src/main/java/com/codegame/codetanks2012/invoker/Main.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304867087" ignored="false" />
+    <file path="$PROJECT_DIR$/../../invoker/make.bat" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304867087" ignored="false" />
+    <file path="$PROJECT_DIR$/../../invoker/src/main/java/com/codegame/codetanks2012/invoker/Invoker.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304867087" ignored="false" />
+    <file path="$PROJECT_DIR$/../../invoker/src/main/java/com/codegame/codetanks2012/invoker/RequestProcessor.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304867087" ignored="false" />
+    <file path="$PROJECT_DIR$/../../repeater/pom.xml" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304867088" ignored="false" />
+    <file path="$PROJECT_DIR$/../../invoker/src/main/java/com/codegame/codetanks2012/invoker/Configuration.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304867088" ignored="false" />
+    <file path="$PROJECT_DIR$/../../invoker/src/main/java/com/codegame/codetanks2012/invoker/util/FileUtil.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304867088" ignored="false" />
+    <file path="$PROJECT_DIR$/../../invoker/src/main/java/com/codegame/codetanks2012/invoker/inject/InvokerModule.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304867088" ignored="false" />
+    <file path="$PROJECT_DIR$/../../invoker/src/main/java/com/codegame/codetanks2012/invoker/interop/ContesterRpcImpl.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304867088" ignored="false" />
+    <file path="$PROJECT_DIR$/../../invoker/src/main/java/com/codegame/codetanks2012/invoker/interop/ContesterRpc.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304867088" ignored="false" />
+    <file path="$PROJECT_DIR$/../../invoker/src/main/java/com/codegame/codetanks2012/invoker/exception/OperationFailedException.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304867088" ignored="false" />
+    <file path="$PROJECT_DIR$/../../invoker/src/main/java/com/codegame/codetanks2012/invoker/exception/ConfigurationException.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304867088" ignored="false" />
+    <file path="$PROJECT_DIR$/../../invoker/profiles/profiles.xml.sample" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304867088" ignored="false" />
+    <file path="$PROJECT_DIR$/../../invoker/profiles/profiles.xml.dev2" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304867088" ignored="false" />
+    <file path="$PROJECT_DIR$/../../repeater/src/main/java/com/codegame/codetanks2012/repeater/Repeater.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304867088" ignored="false" />
+    <file path="$PROJECT_DIR$/../../site/profiles/profiles.xml.dev" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304867088" ignored="false" />
+    <file path="$PROJECT_DIR$/../../site/site.log" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304867097" ignored="false" />
+    <file path="$PROJECT_DIR$/../../site/profiles.xml" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304867088" ignored="false" />
+    <file path="$PROJECT_DIR$/../../site/site.log.err" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304867097" ignored="false" />
+    <file path="$PROJECT_DIR$/../../site/site.log.warn" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304867285" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../asd/.idea/misc.xml" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376304930278" ignored="false" />
+    <file path="$PROJECT_DIR$/../../boombox/.idea/workspace.xml" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376306163400" ignored="false" />
+    <file path="/TrooperUtil.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376306388084" ignored="false" />
+    <file path="/TrooperBase.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376306368055" ignored="false" />
+    <file path="/CodeTroopers2013Game.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1380019712793" ignored="false" />
+    <file path="$PROJECT_DIR$/../../gameserver/src/main/java/com/codegame/gameserver/impl/codetroopers2013/renderer/OnScreenRenderer.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1381229412211" ignored="false" />
+    <file path="/OnScreenRenderer.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1402057142423" ignored="false" />
+    <file path="$PROJECT_DIR$/../../gameserver/src/main/resources/remote-process.properties" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1379718000480" ignored="false" />
+    <file path="/remote-process.properties" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1379716426329" ignored="false" />
+    <file path="$PROJECT_DIR$/../../gameserver/src/main/java/com/codegame/gameserver/impl/codetroopers2013/strategy/adapter/StrategyAdapterBase.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376309220987" ignored="false" />
+    <file path="/StrategyAdapterBase.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376309146180" ignored="false" />
+    <file path="$PROJECT_DIR$/../../gameserver/src/main/java/com/codegame/gameserver/impl/codetroopers2013/strategy/adapter/DebugStrategyAdapter.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376309189885" ignored="false" />
+    <file path="/DebugStrategyAdapter.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376309167804" ignored="false" />
+    <file path="$PROJECT_DIR$/../../gameserver/src/main/java/com/codegame/gameserver/impl/codetroopers2013/strategy/adapter/RemoteProcessStrategyAdapter.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376311176478" ignored="false" />
+    <file path="/RemoteProcessStrategyAdapter.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376311169371" ignored="false" />
+    <file path="/RemoteProcessServerImpl.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1380104206817" ignored="false" />
+    <file path="$PROJECT_DIR$/../../gameserver/src/main/java/com/codegame/gameserver/impl/codetroopers2013/strategy/adapter/remote/RemoteProcessServer.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376310956040" ignored="false" />
+    <file path="/RemoteProcessServer.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1376310956040" ignored="false" />
+    <file path="/Unit.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1402302138990" ignored="false" />
+    <file path="$PROJECT_DIR$/../../gameserver/src/main/java/com/codegame/gameserver/impl/codetroopers2013/strategy/adapter/remote/RemoteProcess.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1379918829320" ignored="false" />
+    <file path="/RemoteProcess.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1379918825976" ignored="false" />
+    <file path="$PROJECT_DIR$/../../gameserver/src/main/java/com/codegame/gameserver/impl/codetroopers2013/core/util/WorldUtil.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1380019699477" ignored="false" />
+    <file path="/WorldUtil.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1402320370826" ignored="false" />
+    <file path="$PROJECT_DIR$/../../gameserver/src/main/java/com/codegame/gameserver/impl/codetroopers2013/core/util/MapUtil.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1380021688306" ignored="false" />
+    <file path="/MapUtil.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1380020007375" ignored="false" />
+    <file path="$PROJECT_DIR$/../../gameserver/src/main/java/com/codegame/gameserver/asd.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1380009088858" ignored="false" />
+    <file path="$PROJECT_DIR$/../../gameserver/src/main/java/com/codegame/gameserver/impl/codetroopers2013/misc/CellVisibilityUpdater.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1380018971219" ignored="false" />
+    <file path="/CellVisibilityUpdater.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1380018937871" ignored="false" />
+    <file path="$PROJECT_DIR$/../../commons/pom.xml" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1380011588271" ignored="false" />
+    <file path="$PROJECT_DIR$/../../commons/src/main/java/com/codegame/codetroopers2013/commons/util/LzmaUtil.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1380011727944" ignored="false" />
+    <file path="/LzmaUtil.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1380011625044" ignored="false" />
+    <file path="$PROJECT_DIR$/../../gameserver/profiles.xml" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1402316996450" ignored="false" />
+    <file path="$PROJECT_DIR$/../../commons/src/main/java/com/codegame/codetroopers2013/commons/util/ResourceUtil.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1380016579586" ignored="false" />
+    <file path="/ResourceUtil.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1380016573945" ignored="false" />
+    <file path="$MAVEN_REPOSITORY$/com/codegame/codetroopers2013/commons/1.0-SNAPSHOT/commons-1.0-SNAPSHOT-sources.jar!/com/codegame/codetroopers2013/commons/util/ResourceUtil.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1380016637993" ignored="false" />
+    <file path="$PROJECT_DIR$/../../gameserver/src/main/java/com/codegame/gameserver/impl/codetroopers2013/model/DecoratedWorld.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1380020074586" ignored="false" />
+    <file path="/DecoratedWorld.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1402298065823" ignored="false" />
+    <file path="/RemoteProcessServerBase.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1402061901969" ignored="false" />
+    <file path="$PROJECT_DIR$/../../gameserver/src/main/java/LocalTestRunner.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1381220821472" ignored="false" />
+    <file path="$PROJECT_DIR$/../../gameserver/src/main/files/maps/default.map" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1381218695535" ignored="false" />
+    <file path="/default.map" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1381218695535" ignored="false" />
+    <file path="/LocalTestRunner.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1381220271229" ignored="false" />
+    <file path="$PROJECT_DIR$/../../gameserver/src/main/java/com/codegame/gameserver/impl/codetroopers2013/core/util/PropertiesUtil.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1381220463470" ignored="false" />
+    <file path="$PROJECT_DIR$/../../gameserver/src/main/java/com/codegame/gameserver/impl/codetroopers2013/strategy/AdvancedQuickStartStrategy.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1381229588960" ignored="false" />
+    <file path="/AdvancedQuickStartStrategy.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1381227955775" ignored="false" />
+    <file path="/TestStrategy.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1381221680294" ignored="false" />
+    <file path="/pom.xml" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1403251070028" ignored="false" />
+    <file path="$PROJECT_DIR$/../../gameserver/src/main/java/com/codegame/gameserver/impl/codehockey2014/renderer/OnScreenRenderer.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1402057218229" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../../2013-codetroopers/code/gameserver/src/main/java/com/codegame/gameserver/impl/codetroopers2013/strategy/adapter/remote/RemoteProcessServerBase.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1402061789299" ignored="false" />
+    <file path="/Dummy.txt" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1403164494429" ignored="false" />
+    <file path="P:/commons/code/src/main/java/com/codeforces/commons/io/IoUtil.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1402061821719" ignored="false" />
+    <file path="/IoUtil.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1402061636652" ignored="false" />
+    <file path="P:/commons/code/src/main/java/com/codeforces/commons/io/LimitedByteArrayOutputStream.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1402060862126" ignored="false" />
+    <file path="$MAVEN_REPOSITORY$/com/codeforces/commons/2.0-SNAPSHOT/commons-2.0-SNAPSHOT-sources.jar!/com/codeforces/commons/io/IoUtil.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1402061887195" ignored="false" />
+    <file path="$PROJECT_DIR$/../../gameserver/src/main/java/com/codegame/gameserver/impl/codehockey2014/strategy/adapter/remote/RemoteProcessServerBase.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1402061905317" ignored="false" />
+    <file path="$PROJECT_DIR$/../../gameserver/src/main/java/com/codegame/gameserver/impl/codehockey2014/core/util/WorldUtil.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1402320373395" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../../2012-codetanks/code/gameserver/src/main/java/com/codegame/gameserver/impl/codetanks2012/core/util/WorldUtil.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1402299633847" ignored="false" />
+    <file path="$PROJECT_DIR$/../../gameserver/src/main/java/com/codegame/gameserver/impl/codehockey2014/conf/1.json" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1402298941981" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../../2013-codetroopers/code/gameserver/src/main/java/com/codegame/gameserver/impl/codetroopers2013/core/util/WorldUtil.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1402299604347" ignored="false" />
+    <file path="P:/commons/code/src/main/java/com/codeforces/commons/math/NumberUtil.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1403075213369" ignored="false" />
+    <file path="/NumberUtil.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1403075211186" ignored="false" />
+    <file path="$MAVEN_REPOSITORY$/com/codeforces/commons/2.0-SNAPSHOT/commons-2.0-SNAPSHOT-sources.jar!/com/codeforces/commons/math/NumberUtil.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1403164457350" ignored="false" />
+    <file path="$PROJECT_DIR$/../../gameserver/src/main/java/com/codegame/gameserver/impl/codehockey2014/model/Player.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1402301525737" ignored="false" />
+    <file path="$PROJECT_DIR$/../../gameserver/src/main/java/com/codegame/gameserver/impl/codehockey2014/core/util/PlayerUtil.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1402301183819" ignored="false" />
+    <file path="/PlayerUtil.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1402301088627" ignored="false" />
+    <file path="$PROJECT_DIR$/../../gameserver/src/main/java/com/codegame/gameserver/impl/codehockey2014/model/Hockeyist.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1402490237645" ignored="false" />
+    <file path="/Hockeyist.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1402404943162" ignored="false" />
+    <file path="$PROJECT_DIR$/../../gameserver/src/main/java/com/codegame/gameserver/impl/codehockey2014/model/Unit.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1402302143204" ignored="false" />
+    <file path="$PROJECT_DIR$/../../gameserver/src/main/java/com/codegame/gameserver/impl/codehockey2014/model/Puck.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1402403754176" ignored="false" />
+    <file path="$PROJECT_DIR$/../../gameserver/src/main/java/com/codegame/gameserver/impl/codehockey2014/core/util/UnitUtil.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1402310709877" ignored="false" />
+    <file path="/UnitUtil.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1402310708668" ignored="false" />
+    <file path="$PROJECT_DIR$/../../gameserver/src/main/java/com/codegame/gameserver/impl/codehockey2014/conf/CodeHockey2014Module.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1402303534656" ignored="false" />
+    <file path="$PROJECT_DIR$/../../gameserver/src/main/java/com/codegame/gameserver/impl/codehockey2014/renderer/TextFileWriter.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1402309407062" ignored="false" />
+    <file path="/TextFileWriter.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1402308101240" ignored="false" />
+    <file path="$PROJECT_DIR$/../../gameserver/src/main/java/com/codegame/gameserver/impl/codehockey2014/renderer/RemoteStorageWriter.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1402310034775" ignored="false" />
+    <file path="/RemoteStorageWriter.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1402310030041" ignored="false" />
+    <file path="$PROJECT_DIR$/../../gameserver/src/main/java/com/codegame/gameserver/impl/codehockey2014/model/1.txt" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1402314428682" ignored="false" />
+    <file path="/1.txt" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1402314427318" ignored="false" />
+    <file path="$PROJECT_DIR$/../../gameserver/profiles/profiles.default.xml" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1402315830824" ignored="false" />
+    <file path="/profiles.default.xml" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1402315514132" ignored="false" />
+    <file path="$PROJECT_DIR$/../../gameserver/profiles/profiles.local-runner.xml" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1402315826721" ignored="false" />
+    <file path="$PROJECT_DIR$/../../clientgenerator/pom.xml" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1403251400994" ignored="false" />
+    <file path="$PROJECT_DIR$/../../clientgenerator/src/main/java/com/codegame/codehockey2014/clientgenerator/Generator.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1403011784442" ignored="false" />
+    <file path="/Generator.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1403011667595" ignored="false" />
+    <file path="$PROJECT_DIR$/../../clientgenerator/src/main/java/com/codegame/codehockey2014/clientgenerator/model/ClientLanguage.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1403248376272" ignored="false" />
+    <file path="/ClientLanguage.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1403248375679" ignored="false" />
+    <file path="$PROJECT_DIR$/../../clientgenerator/src/main/java/com/codegame/codehockey2014/clientgenerator/Helper.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1402912972623" ignored="false" />
+    <file path="/Helper.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1404392802032" ignored="false" />
+    <file path="$PROJECT_DIR$/../../clientgenerator/src/main/java/com/codegame/codehockey2014/clientgenerator/model/Language.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1402319381700" ignored="false" />
+    <file path="$PROJECT_DIR$/../../clientgenerator/src/main/java/com/codegame/codehockey2014/clientgenerator/ClientLanguage.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1402319421629" ignored="false" />
+    <file path="$PROJECT_DIR$/../../clientgenerator/src/main/java/com/codegame/codehockey2014/clientgenerator/model/ClientClass.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1403164134939" ignored="false" />
+    <file path="$PROJECT_DIR$/../../clientgenerator/src/main/java/com/codegame/codehockey2014/clientgenerator/model/ClientField.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1403161432127" ignored="false" />
+    <file path="P:/codeforces/trunk/code/codeforces/module-contest/src/main/java/com/codeforces/module/contest/dao/impl/ContestParticipantDaoImpl.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1402319624849" ignored="false" />
+    <file path="P:/codeforces/trunk/code/codeforces/module-ctc/src/main/java/com/codeforces/module/ctc/web/page/CtcContestPage.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1402319624849" ignored="false" />
+    <file path="/ClientClass.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1403164115386" ignored="false" />
+    <file path="$PROJECT_DIR$/../../clientgenerator/src/main/resources/com/codegame/codehockey2014/clientgenerator/C_SHARP_4_MODEL.ftl" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1402389434947" ignored="false" />
+    <file path="/C_SHARP_4_MODEL.ftl" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1402389434091" ignored="false" />
+    <file path="$PROJECT_DIR$/../../clientgenerator/src/main/java/freemarker_implicit.ftl" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1402322162477" ignored="false" />
+    <file path="/freemarker_implicit.ftl" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1402996016724" ignored="false" />
+    <file path="$PROJECT_DIR$/../../clientgenerator/src/main/resources/freemarker_implicit.ftl" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1402996016724" ignored="false" />
+    <file path="/C_SHARP_4_ENUM.ftl" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1402397233516" ignored="false" />
+    <file path="$PROJECT_DIR$/../../clientgenerator/src/main/resources/com/codegame/codehockey2014/clientgenerator/C_SHARP_4_ENUM.ftl" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1402906107415" ignored="false" />
+    <file path="/ClientField.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1403161414063" ignored="false" />
+    <file path="/DecoratedHockeyist.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1402390446266" ignored="false" />
+    <file path="$PROJECT_DIR$/../../gameserver/src/main/java/com/codegame/gameserver/impl/codehockey2014/model/DecoratedHockeyist.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1402390446266" ignored="false" />
+    <file path="$PROJECT_DIR$/../../gameserver/src/main/java/com/codegame/gameserver/impl/codehockey2014/model/DecoratedPlayer.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1402390451736" ignored="false" />
+    <file path="$PROJECT_DIR$/../../gameserver/src/main/java/com/codegame/gameserver/impl/codehockey2014/model/DecoratedWorld.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1402390455893" ignored="false" />
+    <file path="$PROJECT_DIR$/../../gameserver/src/main/java/com/codegame/gameserver/impl/codehockey2014/model/Effect.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1402390488076" ignored="false" />
+    <file path="$PROJECT_DIR$/../../gameserver/src/main/java/com/codegame/gameserver/impl/codehockey2014/model/Game.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1402390472277" ignored="false" />
+    <file path="$PROJECT_DIR$/../../gameserver/src/main/java/com/codegame/gameserver/impl/codehockey2014/model/PlayerContext.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1402390498232" ignored="false" />
+    <file path="$PROJECT_DIR$/../../clientgenerator/src/main/resources/com/codegame/codehockey2014/clientgenerator/C_SHARP_4_CLASS.ftl" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1402922172800" ignored="false" />
+    <file path="/C_SHARP_4_CLASS.ftl" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1402922993721" ignored="false" />
+    <file path="$PROJECT_DIR$/../../clientgenerator/src/main/java/com/codegame/codehockey2014/clientgenerator/model/Visibility.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1402395067313" ignored="false" />
+    <file path="P:/commons/code/src/main/java/com/codeforces/commons/collection/ListBuilder.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1402396103135" ignored="false" />
+    <file path="P:/commons/code/src/main/java/com/codeforces/commons/collection/ElementFilter.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1402395970440" ignored="false" />
+    <file path="/ElementFilter.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1402395969622" ignored="false" />
+    <file path="/ListBuilder.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1402396052526" ignored="false" />
+    <file path="P:/commons/code/src/main/java/com/codeforces/commons/collection/CollectionBuilder.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1402396133110" ignored="false" />
+    <file path="P:/commons/code/src/main/java/com/codeforces/commons/collection/SetBuilder.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1402396164797" ignored="false" />
+    <file path="P:/commons/code/src/main/java/com/codeforces/commons/collection/SortedSetBuilder.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1402396190215" ignored="false" />
+    <file path="P:/commons/code/src/main/java/com/codeforces/commons/collection/ConcurrentMapBuilder.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1402396402078" ignored="false" />
+    <file path="P:/commons/code/src/main/java/com/codeforces/commons/collection/EntryFilter.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1402396281539" ignored="false" />
+    <file path="/EntryFilter.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1402396281539" ignored="false" />
+    <file path="/ConcurrentMapBuilder.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1402396358287" ignored="false" />
+    <file path="P:/commons/code/src/main/java/com/codeforces/commons/collection/MapBuilder.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1402396427045" ignored="false" />
+    <file path="P:/commons/code/src/main/java/com/codeforces/commons/collection/SortedMapBuilder.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1402396441948" ignored="false" />
+    <file path="P:/commons/code/src/main/java/com/codeforces/commons/exception/ExceptionUtil.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1402397763957" ignored="false" />
+    <file path="/ExceptionUtil.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1402397738514" ignored="false" />
+    <file path="/Puck.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1402403752964" ignored="false" />
+    <file path="$PROJECT_DIR$/../../clientgenerator/src/main/java/com/codegame/codehockey2014/clientgenerator/model/ClientConstructor.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1403854005211" ignored="false" />
+    <file path="/ClientConstructor.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1403853858736" ignored="false" />
+    <file path="$PROJECT_DIR$/../../clientgenerator/src/main/java/com/codegame/codehockey2014/clientgenerator/model/ClientParameter.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1403001542442" ignored="false" />
+    <file path="/ClientParameter.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1403001274688" ignored="false" />
+    <file path="$PROJECT_DIR$/../../clientgenerator/src/main/java/com/codegame/codehockey2014/clientgenerator/model/ClientVisibility.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1402408648660" ignored="false" />
+    <file path="$PROJECT_DIR$/../../clientgenerator/src/main/java/com/codegame/codehockey2014/clientgenerator/Reflection.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1402470736506" ignored="false" />
+    <file path="/Reflection.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1402476101185" ignored="false" />
+    <file path="$PROJECT_DIR$/../../clientgenerator/src/main/java/com/codegame/codehockey2014/clientgenerator/ReflectionUtil.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1402476121325" ignored="false" />
+    <file path="/ReflectionUtil.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1402475889553" ignored="false" />
+    <file path="$PROJECT_DIR$/../../clientgenerator/src/main/resources/log4j.properties" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1402475388982" ignored="false" />
+    <file path="/log4j.properties" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1402475388982" ignored="false" />
+    <file path="$PROJECT_DIR$/../../clientgenerator/src/main/java/com/codegame/codehockey2014/clientgenerator/util/ReflectionUtil.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1402481014968" ignored="false" />
+    <file path="$PROJECT_DIR$/../../clientgenerator/src/main/java/com/codegame/codehockey2014/clientgenerator/util/CSharpUtil.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1402912896405" ignored="false" />
+    <file path="/CSharpUtil.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1402912896405" ignored="false" />
+    <file path="$PROJECT_DIR$/../../clientgenerator/src/main/resources/com/codegame/codehockey2014/clientgenerator/COMMONS.ftl" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1402485051912" ignored="false" />
+    <file path="/COMMONS.ftl" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1402486157571" ignored="false" />
+    <file path="$PROJECT_DIR$/../../clientgenerator/src/main/resources/com/codegame/codehockey2014/clientgenerator/.COMMONS.ftl" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1403597610426" ignored="false" />
+    <file path="P:/commons/code/src/main/java/com/codeforces/commons/collection/ArrayUtil.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1403164852141" ignored="false" />
+    <file path="/ArrayUtil.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1403164713130" ignored="false" />
+    <file path="/.COMMONS.ftl" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1403597549993" ignored="false" />
+    <file path="$PROJECT_DIR$/../../clientgenerator/src/main/java/com/codegame/codehockey2014/clientgenerator/helper/CSharpUtil.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1402912958516" ignored="false" />
+    <file path="$PROJECT_DIR$/../../clientgenerator/src/main/java/com/codegame/codehockey2014/clientgenerator/helper/ReflectionUtil.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1402912958516" ignored="false" />
+    <file path="$PROJECT_DIR$/../../clientgenerator/src/main/java/com/codegame/codehockey2014/clientgenerator/helper/CSharpHelper.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1403179102893" ignored="false" />
+    <file path="$PROJECT_DIR$/../../clientgenerator/src/main/java/com/codegame/codehockey2014/clientgenerator/helper/ReflectionHelper.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1403004995163" ignored="false" />
+    <file path="$PROJECT_DIR$/../../clientgenerator/src/main/java/com/codegame/codehockey2014/clientgenerator/helper/Helper.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1404393102845" ignored="false" />
+    <file path="/ReflectionHelper.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1403004980598" ignored="false" />
+    <file path="$PROJECT_DIR$/../../clientgenerator/src/main/resources/com/codegame/codehockey2014/clientgenerator/C_SHARP_4_class.ftl" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1403160241968" ignored="false" />
+    <file path="P:/commons/code/src/test/java/com/codeforces/commons/math/NumberUtilTest.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1402992721238" ignored="false" />
+    <file path="/NumberUtilTest.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1402992682104" ignored="false" />
+    <file path="$PROJECT_DIR$/../../clientgenerator/src/main/resources/com/codegame/codehockey2014/clientgenerator/C_SHARP_4_class_Unit.ftl" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1404123480426" ignored="false" />
+    <file path="/C_SHARP_4_class_Unit.ftl" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1404123478458" ignored="false" />
+    <file path="$PROJECT_DIR$/../../clientgenerator/src/main/resources/com/codegame/codehockey2014/clientgenerator/C_SHARP_4_class_World.ftl" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1402995757925" ignored="false" />
+    <file path="/C_SHARP_4_class_World.ftl" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1402995757456" ignored="false" />
+    <file path="/CSharpHelper.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1402995574675" ignored="false" />
+    <file path="$PROJECT_DIR$/../../clientgenerator/src/main/resources/com/codegame/codehockey2014/clientgenerator/C_SHARP_4_remote.ftl" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1403162851633" ignored="false" />
+    <file path="/C_SHARP_4_remote.ftl" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1403089141758" ignored="false" />
+    <file path="$PROJECT_DIR$/../../clientgenerator/src/main/resources/com/codegame/codehockey2014/clientgenerator/C_SHARP_4_enum.ftl" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1403093030838" ignored="false" />
+    <file path="$PROJECT_DIR$/../../clientgenerator/src/main/java/com/codegame/codehockey2014/clientgenerator/helper/Pluralizer.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1403078508090" ignored="false" />
+    <file path="/Pluralizer.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1403012986947" ignored="false" />
+    <file path="/*.regexp" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1403081128795" ignored="false" />
+    <file path="$PROJECT_DIR$/../../clientgenerator/src/main/java/com/codegame/codehockey2014/clientgenerator/helper/StringHelper.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1403078509762" ignored="false" />
+    <file path="/C_SHARP_4_class.ftl" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1403088347918" ignored="false" />
+    <file path="$PROJECT_DIR$/../../clientgenerator/src/main/java/com/codegame/codehockey2014/clientgenerator/helper/PythonHelper.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1403179111038" ignored="false" />
+    <file path="/PythonHelper.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1403092766660" ignored="false" />
+    <file path="$PROJECT_DIR$/../../clientgenerator/src/main/resources/com/codegame/codehockey2014/clientgenerator/PYTHON_2_enum.ftl" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1403172833881" ignored="false" />
+    <file path="/PYTHON_2_enum.ftl" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1403160402036" ignored="false" />
+    <file path="/C_SHARP_4_enum.ftl" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1403093029718" ignored="false" />
+    <file path="$PROJECT_DIR$/../../clientgenerator/src/main/resources/com/codegame/codehockey2014/clientgenerator/PYTHON_2_class.ftl" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1403172795354" ignored="false" />
+    <file path="$PROJECT_DIR$/../../clientgenerator/src/main/resources/com/codegame/codehockey2014/clientgenerator/PYTHON_2_remote.ftl" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1403172866771" ignored="false" />
+    <file path="$MAVEN_REPOSITORY$/com/codeforces/commons/2.0-SNAPSHOT/commons-2.0-SNAPSHOT-sources.jar!/com/codeforces/commons/collection/ArrayUtil.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1403164897015" ignored="false" />
+    <file path="/PYTHON_2_class.ftl" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1403172795354" ignored="false" />
+    <file path="$PROJECT_DIR$/../../clientgenerator/src/main/resources/com/codegame/codehockey2014/clientgenerator/PYTHON_3_enum.ftl" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1403172828455" ignored="false" />
+    <file path="/PYTHON_3_enum.ftl" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1403172828455" ignored="false" />
+    <file path="$PROJECT_DIR$/../../clientgenerator/src/main/resources/com/codegame/codehockey2014/clientgenerator/PYTHON_3_class.ftl" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1403172801256" ignored="false" />
+    <file path="/PYTHON_3_class.ftl" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1403172801256" ignored="false" />
+    <file path="$PROJECT_DIR$/../../clientgenerator/src/main/resources/com/codegame/codehockey2014/clientgenerator/PYTHON_3_remote.ftl" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1403172860977" ignored="false" />
+    <file path="/PYTHON_3_remote.ftl" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1403172855341" ignored="false" />
+    <file path="$PROJECT_DIR$/../../clientgenerator/src/main/resources/com/codegame/codehockey2014/clientgenerator/PYTHON_X_class.ftl" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1403183753458" ignored="false" />
+    <file path="/PYTHON_X_class.ftl" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1403183752891" ignored="false" />
+    <file path="$PROJECT_DIR$/../../clientgenerator/src/main/resources/com/codegame/codehockey2014/clientgenerator/PYTHON_X_class_Unit.ftl" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1404123510240" ignored="false" />
+    <file path="/PYTHON_X_class_Unit.ftl" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1404123492650" ignored="false" />
+    <file path="/PYTHON_X_class_World.ftl" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1403180236966" ignored="false" />
+    <file path="$PROJECT_DIR$/../../clientgenerator/src/main/resources/com/codegame/codehockey2014/clientgenerator/PYTHON_X_class_World.ftl" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1403180236966" ignored="false" />
+    <file path="$PROJECT_DIR$/../../clientgenerator/src/main/resources/com/codegame/codehockey2014/clientgenerator/PYTHON_3_class_World.ftl" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1403176069939" ignored="false" />
+    <file path="/PYTHON_3_class_World.ftl" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1403176066666" ignored="false" />
+    <file path="$PROJECT_DIR$/../../clientgenerator/src/main/resources/com/codegame/codehockey2014/clientgenerator/PYTHON_3_class_Unit.ftl" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1403176093138" ignored="false" />
+    <file path="/PYTHON_3_class_Unit.ftl" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1403176092748" ignored="false" />
+    <file path="/PYTHON_X_remote.ftl" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1403179675083" ignored="false" />
+    <file path="$PROJECT_DIR$/../../clientgenerator/src/main/resources/com/codegame/codehockey2014/clientgenerator/PYTHON_X_remote.ftl" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1403182791971" ignored="false" />
+    <file path="$PROJECT_DIR$/../../clientgenerator/src/main/resources/com/codegame/codehockey2014/clientgenerator/PASCAL_enum.ftl" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1403684747382" ignored="false" />
+    <file path="/PASCAL_enum.ftl" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1403595009170" ignored="false" />
+    <file path="$PROJECT_DIR$/../../clientgenerator/src/main/java/com/codegame/codehockey2014/clientgenerator/helper/PascalHelper.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1404117569221" ignored="false" />
+    <file path="/PascalHelper.java" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1403261679175" ignored="false" />
+    <file path="$PROJECT_DIR$/../../clientgenerator/src/main/resources/com/codegame/codehockey2014/clientgenerator/PASCAL_class.ftl" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1404392226495" ignored="false" />
+    <file path="/PASCAL_class.ftl" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1404213809577" ignored="false" />
+    <file path="$PROJECT_DIR$/../../clientgenerator/src/main/resources/com/codegame/codehockey2014/clientgenerator/PASCAL_class_World.ftl" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1404392096639" ignored="false" />
+    <file path="/PASCAL_class_World.ftl" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1404122301241" ignored="false" />
+    <file path="$PROJECT_DIR$/../../clientgenerator/src/main/resources/com/codegame/codehockey2014/clientgenerator/PASCAL_class_Unit.ftl" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1404388089237" ignored="false" />
+    <file path="/PASCAL_class_Unit.ftl" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1404123849753" ignored="false" />
+    <file path="$PROJECT_DIR$/../../clientgenerator/src/main/resources/com/codegame/codehockey2014/clientgenerator/PASCAL_remote.ftl" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1404393454097" ignored="false" />
+    <file path="/PASCAL_remote.ftl" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1404393453706" ignored="false" />
+    <file path="$PROJECT_DIR$/../../clientgenerator/src/main/resources/com/codegame/codehockey2014/clientgenerator/CPP_remote_H.ftl" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1405325681920" ignored="false" />
+    <file path="/CPP_remote_H.ftl" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1405325681300" ignored="false" />
+    <file path="$PROJECT_DIR$/../../clientgenerator/src/main/resources/com/codegame/codehockey2014/clientgenerator/CPP_remote_CPP.ftl" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1405326720359" ignored="false" />
+    <file path="/CPP_remote_CPP.ftl" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1405326706287" ignored="false" />
+    <file path="$PROJECT_DIR$/../../clientgenerator/src/main/resources/com/codegame/codehockey2014/clientgenerator/CPP_class_World_CPP.ftl" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1405331964242" ignored="false" />
+    <file path="$PROJECT_DIR$/../../clientgenerator/src/main/resources/com/codegame/codehockey2014/clientgenerator/CPP_class_CPP.ftl" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1405334461422" ignored="false" />
+    <file path="$PROJECT_DIR$/../../clientgenerator/src/main/resources/com/codegame/codehockey2014/clientgenerator/CPP_class_Unit_CPP.ftl" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1405334492595" ignored="false" />
+    <file path="$PROJECT_DIR$/../../clientgenerator/src/main/resources/com/codegame/codehockey2014/clientgenerator/CPP_class_Unit_H.ftl" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1405331388576" ignored="false" />
+    <file path="/CPP_class_Unit_H.ftl" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1405331387365" ignored="false" />
+    <file path="$PROJECT_DIR$/../../clientgenerator/src/main/resources/com/codegame/codehockey2014/clientgenerator/CPP_class_World_H.ftl" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1405331885461" ignored="false" />
+    <file path="/CPP_class_World_CPP.ftl" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1405331918595" ignored="false" />
+    <file path="/CPP_class_Unit_CPP.ftl" changelist="4dddb735-8945-403b-b4c4-03f6ebc944ca" time="1405334492176" ignored="false" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="DebuggerManager">
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="false" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="false" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <breakpoint_rules />
+    <ui_properties />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="java-cgdk" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="MyStrategy.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/MyStrategy.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="12" column="0" selection-start="306" selection-end="306" vertical-scroll-proportion="0.20506634">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/model/Player.java" />
+        <option value="$PROJECT_DIR$/src/main/java/model/TrooperStance.java" />
+        <option value="$PROJECT_DIR$/src/main/java/model/BonusType.java" />
+        <option value="$PROJECT_DIR$/src/main/java/model/TrooperType.java" />
+        <option value="$PROJECT_DIR$/src/main/java/model/_Unit.java" />
+        <option value="$PROJECT_DIR$/src/main/java/model/Game.java" />
+        <option value="$PROJECT_DIR$/src/main/java/model/Unit.java" />
+        <option value="$PROJECT_DIR$/src/main/java/model/Direction.java" />
+        <option value="$PROJECT_DIR$/src/main/java/model/Trooper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/model/World.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/Strategy.java" />
+        <option value="$PROJECT_DIR$/src/main/java/MyStrategy.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Runner.java" />
+        <option value="$PROJECT_DIR$/src/main/java/model/PlayerContext.java" />
+        <option value="$PROJECT_DIR$/src/main/java/RemoteProcessClient.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1296" />
+    <option name="height" value="1010" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <OptionsSetting value="true" id="Undo Check Out" />
+    <OptionsSetting value="true" id="Get Latest Version" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java-cgdk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java-cgdk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java-cgdk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java-cgdk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java-cgdk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java-cgdk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java-cgdk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="model" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatWidth1" value="81" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatWidth0" value="81" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatWidth3" value="75" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatWidth2" value="82" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatOrder1" value="1" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatOrder0" value="0" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatOrder3" value="3" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatOrder2" value="2" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatOrder5" value="5" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeWidth2" value="86" />
+    <property name="recentsLimit" value="5" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeWidth1" value="85" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatOrder4" value="4" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeWidth0" value="86" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../clientgenerator/pom.xml" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeWidth5" value="761" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeWidth4" value="87" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeWidth3" value="86" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FullScreen" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatWidth4" value="116" />
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatWidth5" value="756" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeOrder5" value="5" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeOrder3" value="3" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeOrder4" value="4" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeOrder1" value="1" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeOrder2" value="2" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeOrder0" value="0" />
+    <property name="dynamic.classpath" value="false" />
+  </component>
+  <component name="RunManager" selected="Application.Runner">
+    <configuration default="false" name="Runner" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="Runner" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="java-cgdk" />
+      <envs />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Profile ">
+        <option name="myExternalizedOptions" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Application.Runner" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Application.Runner" />
+      </list>
+    </recent_temporary>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="true" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <configuration useDefault="false">C:\Users\developer\AppData\Roaming\Subversion</configuration>
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="SvnFileUrlMappingImpl">
+    <option name="myMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="P:\russianaicup\2014-codehockey\code\gameclients\java-cgdk" />
+          <option name="myCopyRoot" value="P:\russianaicup\2014-codehockey\code\gameclients\java-cgdk" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="P:\russianaicup\2014-codehockey\code\gameclients\java-cgdk\.idea" />
+          <option name="myCopyRoot" value="P:\russianaicup\2014-codehockey\code\gameclients\java-cgdk\.idea" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+    <option name="myMoreRealMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="P:\russianaicup\2014-codehockey\code\gameclients\java-cgdk" />
+          <option name="myCopyRoot" value="P:\russianaicup\2014-codehockey\code\gameclients\java-cgdk" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4dddb735-8945-403b-b4c4-03f6ebc944ca" name="Default" comment="" />
+      <created>1345044731483</created>
+      <updated>1345044731483</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1296" height="1010" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5570839" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32942554" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3282532" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24635333" sideWeight="0.4429161" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32941177" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3282532" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32902467" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORIZONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+    <option name="UPDATE_FILTER_SCOPE_NAME" />
+    <option name="USE_COMMIT_MESSAGE_MARGIN" value="false" />
+    <option name="COMMIT_MESSAGE_MARGIN_SIZE" value="72" />
+    <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.classpath">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/model/ActionType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="51" column="13" selection-start="2067" selection-end="2067" vertical-scroll-proportion="1.0483676">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/model/Hockeyist.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="173" column="0" selection-start="5524" selection-end="5524" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/model/HockeyistState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="12" selection-start="60" selection-end="60" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/model/HockeyistType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="12" selection-start="512" selection-end="512" vertical-scroll-proportion="0.24667473">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/model/Move.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="13" selection-start="138" selection-end="138" vertical-scroll-proportion="-1.4461911">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/model/Puck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="13" selection-start="112" selection-end="112" vertical-scroll-proportion="0.10278114">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/model/Player.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="13" selection-start="84" selection-end="84" vertical-scroll-proportion="0.10278114">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/model/PlayerContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="13" selection-start="335" selection-end="335" vertical-scroll-proportion="0.26723096">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Strategy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="9" selection-start="795" selection-end="795" vertical-scroll-proportion="0.34945586">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/model/World.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="13" selection-start="170" selection-end="170" vertical-scroll-proportion="-1.0278114">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/model/Unit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="31" selection-start="871" selection-end="871" vertical-scroll-proportion="0.63570565">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Runner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="45" column="30" selection-start="1555" selection-end="1555" vertical-scroll-proportion="0.5150784">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/model/Game.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="118" column="83" selection-start="4957" selection-end="4974" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/RemoteProcessClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="62" column="42" selection-start="2865" selection-end="2865" vertical-scroll-proportion="-4.454765">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/MyStrategy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="0" selection-start="306" selection-end="306" vertical-scroll-proportion="0.20506634">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>html5</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7x32</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>java-cgdk</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
+
